@@ -1,7 +1,7 @@
 import MovieListItem from './MovieListItem/MovieListItem';
 import PropTypes from 'prop-types';
 
-export default function MovieList({ movies }) {
+export default function MoviesList({ movies }) {
   return (
     <>
       <ul>
@@ -13,6 +13,6 @@ export default function MovieList({ movies }) {
   );
 }
 
-MovieList.propTypes = {
+MoviesList.propTypes = {
   movies: PropTypes.array.isRequired,
 };

@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 export default function MovieListItem({ title, id }) {
   // eslint-disable-next-line no-unused-vars
-  const [searchParams, setSearchParams] = useSearchParams();
+  const [searchParams, _setSearchParams] = useSearchParams();
 
   return (
     <li>
