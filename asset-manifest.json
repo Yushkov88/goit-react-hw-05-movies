@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.a963ea7c.js",
+    "main.css": "/react-homework-template/static/css/main.78c320fe.css",
+    "main.js": "/react-homework-template/static/js/main.eaa6e310.js",
+    "HomePage.js": "/react-homework-template/static/js/HomePage.bef741cd.chunk.js",
+    "MoviesPage.css": "/react-homework-template/static/css/MoviesPage.72d37cab.chunk.css",
+    "MoviesPage.js": "/react-homework-template/static/js/MoviesPage.77bb29c2.chunk.js",
+    "MovieDetailsPage.css": "/react-homework-template/static/css/MovieDetailsPage.27677cca.chunk.css",
+    "MovieDetailsPage.js": "/react-homework-template/static/js/MovieDetailsPage.3fe39527.chunk.js",
     "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.a963ea7c.js.map": "/react-homework-template/static/js/main.a963ea7c.js.map"
+    "main.78c320fe.css.map": "/react-homework-template/static/css/main.78c320fe.css.map",
+    "main.eaa6e310.js.map": "/react-homework-template/static/js/main.eaa6e310.js.map",
+    "HomePage.bef741cd.chunk.js.map": "/react-homework-template/static/js/HomePage.bef741cd.chunk.js.map",
+    "MoviesPage.72d37cab.chunk.css.map": "/react-homework-template/static/css/MoviesPage.72d37cab.chunk.css.map",
+    "MoviesPage.77bb29c2.chunk.js.map": "/react-homework-template/static/js/MoviesPage.77bb29c2.chunk.js.map",
+    "MovieDetailsPage.27677cca.chunk.css.map": "/react-homework-template/static/css/MovieDetailsPage.27677cca.chunk.css.map",
+    "MovieDetailsPage.3fe39527.chunk.js.map": "/react-homework-template/static/js/MovieDetailsPage.3fe39527.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.a963ea7c.js"
+    "static/css/main.78c320fe.css",
+    "static/js/main.eaa6e310.js"
   ]
 }
