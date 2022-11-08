@@ -1,8 +1,9 @@
 import { useState, useRef } from 'react';
 import { useEffect } from 'react';
 import { Link, useParams, useLocation } from 'react-router-dom';
-import api from 'services/api';
 import AdditionalInformation from 'components/AdditionalInformation/AdditionalInformation';
+
+import api from 'services/api';
 import style from './MovieDetailsPage.module.css';
 
 export default function MovieDetailsPage() {

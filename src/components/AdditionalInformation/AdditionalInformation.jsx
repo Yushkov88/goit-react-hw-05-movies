@@ -1,4 +1,5 @@
 import { useParams, Link, Outlet } from 'react-router-dom';
+
 import style from './AdditionalInformation.module.css';
 
 export default function AdditionalInformation() {

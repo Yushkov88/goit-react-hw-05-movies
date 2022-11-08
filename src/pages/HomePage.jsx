@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import MoviesList from 'components/MovieList/MovieList';
+
 import api from 'services/api';
 
 export default function HomePage() {
@@ -16,7 +17,7 @@ export default function HomePage() {
   return (
     <main>
       <h1>Trending today</h1>
-      {movies.length !== 0 && <MoviesList movies={movies} />}
+      {!!movies.length && <MoviesList movies={movies} />}
     </main>
   );
 }

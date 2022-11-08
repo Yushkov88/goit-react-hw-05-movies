@@ -9,11 +9,13 @@ const HomePage = lazy(() =>
 );
 
 const MoviesPage = lazy(() =>
-  import('../pages/MoviesPage' /* webpackChunkName: "MoviesPage" */)
+  import('../pages/MoviesPage/MoviesPage' /* webpackChunkName: "MoviesPage" */)
 );
 
 const MovieDetailsPage = lazy(() =>
-  import('../pages/MovieDetailsPage' /* webpackChunkName: "MovieDetailsPage" */)
+  import(
+    '../pages/MovieDetailsPage/MovieDetailsPage' /* webpackChunkName: "MovieDetailsPage" */
+  )
 );
 
 export const App = () => {
